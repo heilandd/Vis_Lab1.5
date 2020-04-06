@@ -26,7 +26,7 @@ bash install.sh
 ```
 A new Folder will be created calles VIS_Lab_v
 -> in the folder is a file called "launch"
--> This is a double-click exicutable file, can be copied where ever you need it
+-> This is a double-click executable file, can be copied where ever you need it
 
 
 
