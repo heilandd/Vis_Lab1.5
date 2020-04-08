@@ -19,7 +19,12 @@ cat launch.sh > VisLabApp
 chmod +x VisLabApp
 
 ##Add icon
+
+sips -i icon.png
+DeRez -only icns icon.png > tmpicns.rsrc
 Rez -append tmpicns.rsrc  -o VisLabApp
+SetFile -a C VisLabApp
+rm tmpicns.rsrc
 
 echo "-----Instalation is finished you can find the executable File in the Vis_Lab_v folder called: launch, by double-click will the Vis_Lab start ------------------"
 
