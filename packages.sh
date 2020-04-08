@@ -15,8 +15,11 @@ cd $new_path
 
 Rscript Install.R
 
-cat launch.sh > launch
-chmod +x launch
+cat launch.sh > VisLabApp
+chmod +x VisLabApp
+
+##Add icon
+Rez -append tmpicns.rsrc  -o VisLabApp
 
 echo "-----Instalation is finished you can find the executable File in the Vis_Lab_v folder called: launch, by double-click will the Vis_Lab start ------------------"
 
@@ -28,6 +31,8 @@ echo "##########################################################################
 
 
 exit 0
+
+
 
 
 
