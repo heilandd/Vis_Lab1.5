@@ -29,7 +29,9 @@ A new Folder will be created calles VIS_Lab_v
 -> This is a double-click executable file, can be copied where ever you need it
 
 
+### Update:
 
+8.4.2020 -> Riverplot function is optimized and Heatmaps are ranked
 
 
 ### Authors
