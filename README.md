@@ -38,7 +38,7 @@ Dieter.henrik.heiland@uniklinik-freiburg.de
 
 
 ### Update:
-
+8.4.2020 -> Optimized insterlation (install.R -> getwd()into system("PWD", intern=T)
 8.4.2020 -> Riverplot function is optimized and Heatmaps are ranked
 
 
