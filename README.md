@@ -28,6 +28,9 @@ A new Folder will be created calles VIS_Lab_v
 -> in the folder is a file called "launch"
 -> This is a double-click executable file, can be copied where ever you need it
 
+In any case of problems send me the Error per mail.
+Dieter.henrik.heiland@uniklinik-freiburg.de
+
 
 ### Update:
 
