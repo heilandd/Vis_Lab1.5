@@ -39,4 +39,4 @@ Dieter.henrik.heiland@uniklinik-freiburg.de
 
 ### Authors
 
-D. H. Heiland  The MILO Laboratoy, Medcal-Center Freiburg, University of Freiburg, themilolab.com
+D. H. Heiland  The MILO Laboratoy, Medical-Center Freiburg, University of Freiburg, themilolab.com
