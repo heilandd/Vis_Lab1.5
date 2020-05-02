@@ -19,10 +19,7 @@ Xcode Command Line Tools or other C++ Compiler
 R-Software (https://cran.r-project.org)
 
 ```
-username="Your User Name"
-password="Your password"
-
-git clone https://username:password@github.com/tumormetabolismfr/Vis_Lab1.5
+git clone https://github.com/heilandd/Vis_Lab1.5
 
 cd Vis_Lab1.5
 
